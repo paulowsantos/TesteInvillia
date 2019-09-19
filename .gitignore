@@ -59,7 +59,7 @@ buck-out/
 /ios/Pods/
 
 # ENV
-.env.dev
+.env
 
 #vscode
 .vscode/
